@@ -167,3 +167,4 @@ C:\Users\Sagnik Chatterjee\Desktop\blazor\ContosoUniversity\ContosoUniversity\ob
 C:\Users\Sagnik Chatterjee\Desktop\blazor\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\Sagnik Chatterjee\Desktop\blazor\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\Sagnik Chatterjee\Desktop\blazor\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\Sagnik Chatterjee\Desktop\blazor\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
