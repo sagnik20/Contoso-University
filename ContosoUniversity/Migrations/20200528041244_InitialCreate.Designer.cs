@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ContosoUniversity.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20200527190513_InitialCreate")]
+    [Migration("20200528041244_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
